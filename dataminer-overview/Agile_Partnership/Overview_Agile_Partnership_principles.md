@@ -12,7 +12,7 @@ Skyline Communications aims to create an agile partnership with its users. Below
 
 - The customers/users and Skyline Communications define **clear accountabilities** for everybody in the Project Squad, being: the product owner, DevOps engineers, stakeholders, business representative, and end users.
 
-- The customers/users and Skyline Communications **fully acknowledge the known and unknown challenges** ahead and will work together to mitigate those when they become relevant: change management, responsibility to balance time budgets, etc.
+- The customers/users and Skyline Communications **fully acknowledge the known and unknown challenges** ahead and will work together to mitigate those when they become relevant: shifting priorities, fluctuating connectivity to devices, unforeseen firmware updates, etc.
 
 - The customers/users and Skyline Communications fully embrace the **key methodologies and principles** required to be successful: transparency, weighing value vs. effort, early demonstrators, the value of retrospect, stakeholder involvement, etc.
 
