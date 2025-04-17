@@ -19,3 +19,7 @@ In this context, Skyline is more than just a technology supplier. While we deliv
 As part of our solution, we also offer **Agile Awareness Training** for your staff. For this, we have partnered with widely acclaimed industry experts to make sure that everybody involved in the deployment of a DataMiner project is fully empowered and optimally prepared to make it a success. You can sit back, and we will take care of everything. This way, you can focus your time and energy on what goes to the heart of your goals with our joint project.
 
 Whether as a first introduction to Agile for some people, or as a refresher course for others, our Agile Awareness Training will deliver a valuable return for you, even well beyond your projects with Skyline. After all, Agile is one of the keys to success in pretty much anything ahead of you in the new data-driven era.
+
+## How to register
+
+Send an email to [salesops@skyline.be](mailto:salesops@skyline.be?subject=Kanban%20Workshop%20request%20for%20information&body=Hi%2C%20I%27d%20like%20to%20register%20for%20the%20Kanban%20Workshop.%20You%20can%20contact%20me%20at%20this%20email%20address.) to register or request additional information for the Agile Fundamentals training.
